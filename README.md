@@ -17,3 +17,6 @@ PROJECT 5: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS 
 PROJECT 6: [TERRAFORM DEPLOY A TWO TIER ARCHITECTURE IN AWS](https://github.com/georgeonalo/Terraform-Deploy-a-Two-Tier-Architecture-in-AWS)
 
 PROJECT 7: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
+
+PROJECT 8: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
+](https://github.com/georgeonalo/Kubernetes-Create-Deployments-Using-YAML-Files)

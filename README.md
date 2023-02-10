@@ -25,4 +25,6 @@ PROJECT 9: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/geo
 PROJECT 10: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
 ](https://github.com/georgeonalo/Kubernetes-Create-Deployments-Using-YAML-Files)
 
+PROJECT 11: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
+
 

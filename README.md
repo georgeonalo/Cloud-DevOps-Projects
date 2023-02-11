@@ -27,4 +27,6 @@ PROJECT 10: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
 
 PROJECT 11: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
 
+PROJECT 12: [CREATING A HIGH AVAILABILITY GROUP OF EC2 INSTANCES WITH AUTO SCALING](https://github.com/georgeonalo/Creating-a-High-Availability-Group-of-EC2-Instances-with-Auto-Scaling)
+
 

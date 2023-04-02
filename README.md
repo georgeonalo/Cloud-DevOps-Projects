@@ -20,7 +20,7 @@ PROJECT 7: [DEPLOY A DYNAMIC AND STATIC WEBSITE ON AWS WITH DOCKER, AMAZON ECR A
 
 PROJECT:8 [CICD PROJECT 1: AUTOMATICALLY APPLY TERRAFORM WITH AWS CODEBUILD](https://github.com/georgeonalo/cicd-projects)
 
-PROJECT:9 [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image))  
+PROJECT:9 [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image)  
 
 PROJECT 10: [DEPLOY A STATIC WEBSITE ON AWS WITH ANSIBLE](https://github.com/georgeonalo/ansible-playbooks)
 

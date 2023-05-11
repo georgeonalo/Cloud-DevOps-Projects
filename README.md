@@ -1,6 +1,6 @@
 # Cloud-DevOps-Projects
 
-This repository contains most of the real-life projects I carried out during my Cloud/DevOps career journey
+This repository contains most of the real-world projects I carried out during my Cloud/DevOps career journey
 
 ## Table Of Contents
 

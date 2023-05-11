@@ -4,7 +4,7 @@ This repository contains most of the real-world projects I carried out during my
 
 ## Table Of Contents
 
-PROJECT 1: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS AND GITHUB PIPELINE](https://github.com/georgeonalo/GitOps)
+PROJECT 1: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS(ARGOCD) AND GITHUB PIPELINE](https://github.com/georgeonalo/GitOps)
 
 PROJECT 2: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
 

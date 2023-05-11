@@ -8,7 +8,7 @@ PROJECT 1: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS 
 
 PROJECT 2: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
 
-Project 3: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
+PROJECT 3: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
 
 PROJECT 4: [BUILD A DEVELOPMENT ENVIRONMENT IN AWS WITH TERRAFORM](https://github.com/georgeonalo/terraform-dev-env)
 

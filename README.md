@@ -6,13 +6,13 @@ This repository contains most of the real-world projects I carried out during my
 
 PROJECT 1: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS(ARGOCD) AND GITHUB PIPELINE](https://github.com/georgeonalo/GitOps)
 
-PROJECT 2: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
+PROJECT 2:  [AWS BOTO3, PYTHON AND LAMBDA PROJECT](https://github.com/georgeonalo/python-projects)
 
-PROJECT 3: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
+PROJECT 3: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
 
-PROJECT 4: [BUILD A DEVELOPMENT ENVIRONMENT IN AWS WITH TERRAFORM](https://github.com/georgeonalo/terraform-dev-env)
+PROJECT 4: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
 
-PROJECT 5: [PYTHON AND LAMBDA PROJECT](https://github.com/georgeonalo/python-projects)
+PROJECT 5: [BUILD A DEVELOPMENT ENVIRONMENT IN AWS WITH TERRAFORM](https://github.com/georgeonalo/terraform-dev-env)
 
 PROJECT 6: [LAMP STACK PROJECT 1; HOST A WORDPRESS SITE ON AWS](https://github.com/georgeonalo/Host-a-wordpress-website-on-AWS)
 

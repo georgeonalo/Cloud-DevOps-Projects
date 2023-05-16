@@ -8,27 +8,31 @@ PROJECT 1: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS(
 
 PROJECT 2:  [AWS BOTO3, PYTHON AND LAMBDA PROJECT](https://github.com/georgeonalo/python-projects)
 
-PROJECT 3: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
+PROJECT 3: [DEPLOY A STATIC WEBSITE ON AWS WITH ANSIBLE](https://github.com/georgeonalo/ansible-playbooks)
 
-PROJECT 4: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
 
-PROJECT 5: [BUILD A DEVELOPMENT ENVIRONMENT IN AWS WITH TERRAFORM](https://github.com/georgeonalo/terraform-dev-env)
 
-PROJECT 6: [LAMP STACK PROJECT 1; HOST A WORDPRESS SITE ON AWS](https://github.com/georgeonalo/Host-a-wordpress-website-on-AWS)
+PROJECT 4: [SERVERLESS WEB APPLICATION](https://github.com/georgeonalo/Serverless-Web-Application)
 
-PROJECT 7: [LAMP STACK PROJECT 2; HOST A DYNAMIC ECOMMERCE WEBSITE ON AWS](https://github.com/georgeonalo/Host-a-Dynamic-Ecommerce-Website-on-AWS)
+PROJECT 5: [DEPLOY A STATIC WEBSITE ON AWS WITH S3 BUCKET, CLOUDFRONT, TLS CERTIFICATE AND ROUTE 53](https://github.com/georgeonalo/deploy-a-static-website-on-aws)
 
-PROJECT 8: [TERRAFORM DEPLOY AN ECOMMERCE WEBSITE ON AWS](https://github.com/georgeonalo/terraform-projects)
+PROJECT 6: [BUILD A DEVELOPMENT ENVIRONMENT IN AWS WITH TERRAFORM](https://github.com/georgeonalo/terraform-dev-env)
 
-PROJECT 9: [INSTALL JENKINS ON EC2 AND RUN ClOUDFORMATION FROM GITHUB USING JENKINS](https://github.com/georgeonalo/Run-Infra-as-Code-with-Jenkins)
+PROJECT 7: [LAMP STACK PROJECT 1; HOST A WORDPRESS SITE ON AWS](https://github.com/georgeonalo/Host-a-wordpress-website-on-AWS)
 
-PROJECT 10: [DEPLOY A DYNAMIC AND STATIC WEBSITE ON AWS WITH DOCKER, AMAZON ECR AND ECS](https://github.com/georgeonalo/docker-projects)
+PROJECT 8: [LAMP STACK PROJECT 2; HOST A DYNAMIC ECOMMERCE WEBSITE ON AWS](https://github.com/georgeonalo/Host-a-Dynamic-Ecommerce-Website-on-AWS)
 
-PROJECT 11: [CICD PROJECT 1: AUTOMATICALLY APPLY TERRAFORM WITH AWS CODEBUILD](https://github.com/georgeonalo/cicd-projects)
+PROJECT 9: [TERRAFORM DEPLOY AN ECOMMERCE WEBSITE ON AWS](https://github.com/georgeonalo/terraform-projects)
 
-PROJECT 12: [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image)  
+PROJECT 10: [INSTALL JENKINS ON EC2 AND RUN ClOUDFORMATION FROM GITHUB USING JENKINS](https://github.com/georgeonalo/Run-Infra-as-Code-with-Jenkins)
 
-PROJECT 13: [DEPLOY A STATIC WEBSITE ON AWS WITH ANSIBLE](https://github.com/georgeonalo/ansible-playbooks)
+PROJECT 11: [DEPLOY A DYNAMIC AND STATIC WEBSITE ON AWS WITH DOCKER, AMAZON ECR AND ECS](https://github.com/georgeonalo/docker-projects)
+
+PROJECT 12: [CICD PROJECT 1: AUTOMATICALLY APPLY TERRAFORM WITH AWS CODEBUILD](https://github.com/georgeonalo/cicd-projects)
+
+PROJECT 13: [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image)  
+
+
 
 PROJECT 14: [HOST A DYNAMIC WEB APP ON AWS WITH TERRAFORM, DOCKER, AMAZON ECR, AND ECS](https://github.com/georgeonalo/rentzone-terraform-ecs-project)
 

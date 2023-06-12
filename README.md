@@ -30,29 +30,31 @@ PROJECT 12: [DEPLOY A DYNAMIC AND STATIC WEBSITE ON AWS WITH DOCKER, AMAZON ECR 
 
 PROJECT 13: [CICD PROJECT 1: AUTOMATICALLY APPLY TERRAFORM WITH AWS CODEBUILD](https://github.com/georgeonalo/cicd-projects)
 
-PROJECT 14: [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image)  
+PROJECT 14: [CICD PROJECT 2: BUILD DOCKER IMAGE AND PUSH IT TO DOCKER HUB](https://github.com/georgeonalo/cicd-build-docker-image)
 
-PROJECT 15: [HOST A DYNAMIC WEB APP ON AWS WITH TERRAFORM, DOCKER, AMAZON ECR, AND ECS](https://github.com/georgeonalo/rentzone-terraform-ecs-project)
+PROJECT 15: [DEPLOY A STATIC WEBSITE ON AWS USING S3 BUCKET, GITHUB AND AWS CODEPIPELINE](https://github.com/georgeonalo/Deploy-a-static-website-using-AWS-CodePipeline-S3-and-GitHub-2)
 
-PROJECT 16: [DEPLOY A DYNAMIC CAR RENTAL WEB APPLICATION ON AWS WITH TERRAFORM MODULE, DOCKER, AMAZON ECR AND ECS](https://github.com/georgeonalo/terraform-modules)
+PROJECT 16: [HOST A DYNAMIC WEB APP ON AWS WITH TERRAFORM, DOCKER, AMAZON ECR, AND ECS](https://github.com/georgeonalo/rentzone-terraform-ecs-project)
 
-PROJECT 17: [TERRAFORM DEPLOY A TWO TIER ARCHITECTURE IN AWS](https://github.com/georgeonalo/Terraform-Deploy-a-Two-Tier-Architecture-in-AWS)
+PROJECT 17: [DEPLOY A DYNAMIC CAR RENTAL WEB APPLICATION ON AWS WITH TERRAFORM MODULE, DOCKER, AMAZON ECR AND ECS](https://github.com/georgeonalo/terraform-modules)
 
-PROJECT 18: [CREATING AN AUTO SCALING GROUP USING AWS CLOUDFORMATION](https://github.com/georgeonalo/Creating-an-Auto-Scaling-Group-using-AWS-CloudFormation)
+PROJECT 18: [TERRAFORM DEPLOY A TWO TIER ARCHITECTURE IN AWS](https://github.com/georgeonalo/Terraform-Deploy-a-Two-Tier-Architecture-in-AWS)
 
-PROJECT 19: [CREATE A CICD PIPELINE WITH AWS CODEPIPELINE USING GITHUB AND S3 BUCKET](https://github.com/georgeonalo/CI-CD-Pipeline-with-AWS-CodePipeline)
+PROJECT 19: [CREATING AN AUTO SCALING GROUP USING AWS CLOUDFORMATION](https://github.com/georgeonalo/Creating-an-Auto-Scaling-Group-using-AWS-CloudFormation)
 
-PROJECT 20: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
+PROJECT 20: [CREATE A CICD PIPELINE WITH AWS CODEPIPELINE USING GITHUB AND S3 BUCKET](https://github.com/georgeonalo/CI-CD-Pipeline-with-AWS-CodePipeline)
 
-PROJECT 21: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
+PROJECT 21: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
+
+PROJECT 22: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
 ](https://github.com/georgeonalo/Kubernetes-Create-Deployments-Using-YAML-Files)
 
-PROJECT 22: [ARCHITECTING 3 TIER ARCHITECTURE ON AWS](https://github.com/georgeonalo/hello-world)
+PROJECT 23: [ARCHITECTING 3 TIER ARCHITECTURE ON AWS](https://github.com/georgeonalo/hello-world)
 
-PROJECT 23: [CREATING AN EC2 INSTANCE WITH AN APACHE WEB SERVER USING AWS CLI](https://github.com/georgeonalo/Creating-an-EC2-instance-with-an-Apache-Web-Server-Using-AWS-CLI)
+PROJECT 24: [CREATING AN EC2 INSTANCE WITH AN APACHE WEB SERVER USING AWS CLI](https://github.com/georgeonalo/Creating-an-EC2-instance-with-an-Apache-Web-Server-Using-AWS-CLI)
 
-PROJECT 24: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
+PROJECT 25: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
 
-PROJECT 25: [CREATING A HIGH AVAILABILITY GROUP OF EC2 INSTANCES WITH AUTO SCALING](https://github.com/georgeonalo/Creating-a-High-Availability-Group-of-EC2-Instances-with-Auto-Scaling)
+PROJECT 26: [CREATING A HIGH AVAILABILITY GROUP OF EC2 INSTANCES WITH AUTO SCALING](https://github.com/georgeonalo/Creating-a-High-Availability-Group-of-EC2-Instances-with-Auto-Scaling)
 
 

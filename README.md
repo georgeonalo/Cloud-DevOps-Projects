@@ -44,7 +44,7 @@ PROJECT 19: [TERRAFORM DEPLOY A TWO TIER ARCHITECTURE IN AWS](https://github.com
 
 PROJECT 20: [CREATING AN AUTO SCALING GROUP USING AWS CLOUDFORMATION](https://github.com/georgeonalo/Creating-an-Auto-Scaling-Group-using-AWS-CloudFormation)
 
-PROJECT 21: [DEPLOY A STATIC WEBSITE ON AWS USING S3, GITHUB AND AWS CODEPIPELINE]([https://github.com/georgeonalo/CI-CD-Pipeline-with-AWS-CodePipeline](https://github.com/georgeonalo/Deploy-a-static-website-using-AWS-CodePipeline-S3-and-GitHub-2))
+PROJECT 21: [DEPLOY A STATIC WEBSITE ON AWS USING S3, GITHUB AND AWS CODEPIPELINE](https://github.com/georgeonalo/Deploy-a-static-website-using-AWS-CodePipeline-S3-and-GitHub-2)
 
 PROJECT 22: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
 

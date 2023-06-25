@@ -44,19 +44,17 @@ PROJECT 19: [TERRAFORM DEPLOY A TWO TIER ARCHITECTURE IN AWS](https://github.com
 
 PROJECT 20: [CREATING AN AUTO SCALING GROUP USING AWS CLOUDFORMATION](https://github.com/georgeonalo/Creating-an-Auto-Scaling-Group-using-AWS-CloudFormation)
 
-PROJECT 21: [DEPLOY A STATIC WEBSITE ON AWS USING S3, GITHUB AND AWS CODEPIPELINE](https://github.com/georgeonalo/Deploy-a-static-website-using-AWS-CodePipeline-S3-and-GitHub-2)
+PROJECT 21: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
 
-PROJECT 22: [CREATE A CUSTOM DOCKER IMAGE AND PUSH TO ECR](https://github.com/georgeonalo/Create-a-Custom-Docker-Image)
-
-PROJECT 23: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
+PROJECT 22: [KUBERNETES: CREATE DEPLOYMENT USING YAML FILES
 ](https://github.com/georgeonalo/Kubernetes-Create-Deployments-Using-YAML-Files)
 
-PROJECT 24: [ARCHITECTING 3 TIER ARCHITECTURE ON AWS](https://github.com/georgeonalo/hello-world)
+PROJECT 23: [ARCHITECTING 3 TIER ARCHITECTURE ON AWS](https://github.com/georgeonalo/hello-world)
 
-PROJECT 25: [CREATING AN EC2 INSTANCE WITH AN APACHE WEB SERVER USING AWS CLI](https://github.com/georgeonalo/Creating-an-EC2-instance-with-an-Apache-Web-Server-Using-AWS-CLI)
+PROJECT 24: [CREATING AN EC2 INSTANCE WITH AN APACHE WEB SERVER USING AWS CLI](https://github.com/georgeonalo/Creating-an-EC2-instance-with-an-Apache-Web-Server-Using-AWS-CLI)
 
-PROJECT 26: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
+PROJECT 25: [TRIGGERING LAMBDA WITH API GATEWAY TO SEND MESSAGES TO SQS](https://github.com/georgeonalo/Triggering-Lambda-with-API-Gateway-to-Send-Messages-to-SQS)
 
-PROJECT 27: [CREATING A HIGH AVAILABILITY GROUP OF EC2 INSTANCES WITH AUTO SCALING](https://github.com/georgeonalo/Creating-a-High-Availability-Group-of-EC2-Instances-with-Auto-Scaling)
+PROJECT 26: [CREATING A HIGH AVAILABILITY GROUP OF EC2 INSTANCES WITH AUTO SCALING](https://github.com/georgeonalo/Creating-a-High-Availability-Group-of-EC2-Instances-with-Auto-Scaling)
 
 

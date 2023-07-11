@@ -6,7 +6,7 @@ This repository contains most of the real-world projects I carried out during my
 
 PROJECT 1: [DEPLOY A DYNAMIC WEB APP ON AWS USING CI/CD PIPELINES AND GITHUB ACTIONS](https://github.com/georgeonalo/rentzone-github-actions-terraform-ecs-project)
 
-PROJECT 2: [DEPLOY A JAVA BASED APP WITH CI/CD IN KUBERNETES USING; JENKINS, DOCKER PIPELINE, SONARQUBE, GITHUB AND ARGOCD ](https://github.com/georgeonalo/CICD-Jenkins-ArgoIM-ArgoCD-Pipeline)
+PROJECT 2: [DEPLOY A JAVA BASED APP WITH CI/CD IN KUBERNETES USING; JENKINS, DOCKER PIPELINE, SONARQUBE, GITHUB, AMAZON EKS AND ARGOCD ](https://github.com/georgeonalo/CICD-Jenkins-ArgoIM-ArgoCD-Pipeline)
 
 PROJECT 3: [END TO END DEPLOYMENT INTO KUBERNETES CLUSTER USING JENKINS, GITOPS(ARGOCD) AND GITHUB PIPELINE](https://github.com/georgeonalo/GitOps)
 
